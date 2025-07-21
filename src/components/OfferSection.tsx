@@ -3,7 +3,6 @@ import { Check, Gift, DollarSign } from "lucide-react";
 
 export const OfferSection = () => {
   const offerFeatures = [
-    "Plano mensal a partir de R$397",
     "Menos de R$14 por dia para não perder mais nenhuma venda no WhatsApp.",
     "Setup único com implantação personalizada",
     "Suporte real. Sem enrolação.",
